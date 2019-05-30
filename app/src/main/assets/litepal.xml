@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepa>
+    <dbname value="gkmeptnas">
+        <version value="1"></version>
+        <list>
+            <mapping class="com.nasserver.gkmept.Dao.FolderFile"></mapping>
+        </list>
+    </dbname>
+</litepa>

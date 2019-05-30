@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_recent"
+        android:icon="@drawable/foldernormal"
+        android:title="@string/title_recent" />
+
+    <item
+        android:id="@+id/navigation_file"
+        android:icon="@drawable/foldershared"
+        android:title="@string/title_file" />
+
+    <item
+        android:id="@+id/navigation_windows"
+        android:icon="@drawable/add"
+        android:title="@string/title_file" />
+
+    <item
+        android:id="@+id/navigation_photo"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_photo" />
+
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_mine" />
+
+</menu>

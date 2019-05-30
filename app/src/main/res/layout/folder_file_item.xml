@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="160sp">
+
+    <ImageView
+        android:id="@+id/imageViewFileImage"
+        android:layout_width="wrap_content"
+        android:layout_height="128sp" />
+    <TextView
+        android:id="@+id/textViewFileName"
+        android:layout_width="wrap_content"
+        android:textSize="8sp"
+        android:layout_height="38sp" />
+
+</LinearLayout>
